@@ -1,0 +1,31 @@
+// Here you can add other styles
+.header-text {
+  font-size: 20px;
+  font-weight: bold;
+  width: 200px;
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+//hotel dashboard css
+.func-box {
+  border: 3px solid #01a1da;
+  border-radius: 15px;
+  margin:10px 5px;
+  text-align: center;
+  font-size: 24px;
+  color:#01a1da;
+  background: white;
+  height:150px;
+  display: flex;
+}
+.func-box p {
+  margin:auto;
+}
+.func-box:hover {
+  background: #f0f3f5
+}
+
